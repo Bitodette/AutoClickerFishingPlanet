@@ -27,7 +27,7 @@ Other modes are currently under development and will be available in future upda
 ### **Installation Steps**
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/literataa/FishingPlanetAutoClicker.git
+    git clone https://github.com/literataa/AutoClickerFishingPlanet.git
     ```
 2. **Open the Project:**
     - Navigate to the cloned repository directory.
@@ -70,7 +70,7 @@ We welcome contributions from the community to enhance the functionality and fea
 
 2. **Clone Your Fork:**
     ```sh
-    git clone https://github.com/yourusername/FishingPlanetAutoClicker.git
+    git clone https://github.com/yourusername/AutoClickerFishingPlanet.git
     ```
 
 3. **Create a Feature Branch:**
