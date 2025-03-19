@@ -62,38 +62,6 @@ Other modes are currently under development and will be available in future upda
 5. **Monitoring Status:**
     - The status label will display the current state of the Auto Clicker (e.g., "Stop & Go Active," "Catch Active," or "Inactive").
 
-## **Contributing**
-We welcome contributions from the community to enhance the functionality and features of Auto Clicker Windows. Whether you're reporting bugs, suggesting improvements, or submitting code enhancements, your input is valuable.
-
-1. **Fork the Repository:**
-    - Click the "Fork" button at the top right of the repository page.
-
-2. **Clone Your Fork:**
-    ```sh
-    git clone https://github.com/yourusername/AutoClickerFishingPlanet.git
-    ```
-
-3. **Create a Feature Branch:**
-    ```sh
-    git checkout -b feature/YourFeatureName
-    ```
-
-4. **Commit Your Changes:**
-    ```sh
-    git commit -m "Add Your Feature Description"
-    ```
-
-5. **Push to Your Fork:**
-    ```sh
-    git push origin feature/YourFeatureName
-    ```
-
-6. **Submit a Pull Request:**
-    - Navigate to the original repository and submit a pull request from your feature branch.
-
-## **License**
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software provided you include the original license and copyright.
-
 ## **Disclaimer**
 **Use this tool at your own risk.** The developers are not responsible for any consequences that may arise from using this tool, including but not limited to violations of game terms of service, account bans, or hardware/software issues.
 
