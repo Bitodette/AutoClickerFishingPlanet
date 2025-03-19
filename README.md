@@ -27,7 +27,7 @@ Other modes are currently under development and will be available in future upda
 ### **Installation Steps**
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/literataa/Fishing-Planet-AutoClicker-Tool.git
+    git clone https://github.com/literataa/FishingPlanetAutoClicker.git
     ```
 2. **Open the Project:**
     - Navigate to the cloned repository directory.
